@@ -3,6 +3,7 @@ A message with a constantly running countdown that you can pin and thus always h
 
 
 HOW TO USE:
+
 Save the code on your computer!
 
 First, change the date to the desired time on the desired day. This can be done in line 9.
